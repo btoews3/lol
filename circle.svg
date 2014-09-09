@@ -1,3 +1,4 @@
-<svg>
-  <circle cx="60" cy="60" r="50" height="100" width="100" />
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <circle cx="40" cy="40" r="24" style="stroke:#006600; fill:#00cc00"/>
 </svg>
