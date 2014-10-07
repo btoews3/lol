@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink">
-    <a xlink:href="https://github.com">
-    <circle cx="40" cy="40" r="24" style="stroke:#006600; fill:#00cc00" onmouseover="alert(1)" />
-    </a>
-    <script>alert(1)</script>
-</svg>
